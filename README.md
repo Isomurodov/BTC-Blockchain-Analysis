@@ -1,6 +1,7 @@
 # BTC Blockchain analysis
- Analyzes an individual BTC blocks with graphs
+ Analyzes of individual BTC blocks with graphs
  
+ #REFER TO THE PDF FILE FOR FINAL REPORT
  
 Overview
 
